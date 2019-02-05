@@ -1,0 +1,20 @@
+<resources> xmlns:xliff="urn:oasis:name:tc:xliff:document:1.2">
+    <!--Header text for the list of coffeeShop[CHAR LIMIT =20] -->
+    <string name="coffeeShop">Coffee Shop</string>
+    <!--Header text for the list of thank_you[CHAR LIMIT =NONE] -->
+    <string name="app_name">Coffee Shop</string>
+    <string name="thank_you">Thank You</string>
+    <string name="order_summary_name">Thank You</string>
+    <string name="name_name">Name</string>
+    <string name="toppings_name">Toppings</string>
+    <string name="whipped_name">Whipped Cream</string>
+    <string name="chocolate_name">Chocolate Cream</string>
+    <string name="quantity_name">Quantity</string>
+    <string name="order_name">Order</string>
+    <string name="zero_name">0</string>
+    <string name="increment_name">+</string>
+    <string name="decrement_name">-</string>
+    <string name="hint_name">Name</string>
+    <string name="latte_name">Latte</string>
+    <string name="expresso_name">Expresso</string>
+</resources>
